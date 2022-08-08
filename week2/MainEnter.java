@@ -23,6 +23,12 @@ public class MainEnter {
             strSimi.computeLayerK(i);
         System.out.println("hopCountResult:");
         System.out.println(Arrays.deepToString(strSimi.hopCountResult));
+//        System.out.println("degrees:");
+//        System.out.println(Arrays.toString(strSimi.degrees));
+//        System.out.println("diam (diameter):");
+//        System.out.println(strSimi.diam);
+//        System.out.println("n (vertices number):");
+//        System.out.println(strSimi.n);
         System.out.println("structSimi:");
         System.out.println(Arrays.deepToString(strSimi.structSimi));
 //        System.out.println(Arrays.deepToString(strSimi.hopCountResult));
