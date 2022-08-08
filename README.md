@@ -17,8 +17,11 @@
 
 - 输出结果
 
-
-![week2_test_result](https://user-images.githubusercontent.com/90893013/183317092-3acb4ec4-a8c5-4138-be32-8c532d39b3b0.png)
-- 
+![res](https://user-images.githubusercontent.com/90893013/183333694-5e889948-1f3e-4d69-91b8-bbea5c7172c6.png)
 
 
+- 结论：与手算验证结果一致
+
+
+
+![verification](https://user-images.githubusercontent.com/90893013/183334439-172eccf6-5f84-40d1-98bc-c9674d0fea85.jpg)
