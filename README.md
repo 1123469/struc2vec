@@ -6,7 +6,7 @@
 
 - (1,1)-Barbell图
 
-  ![week2_test_barbell](pic/week2_test_barbell.png)
+  ![](pic/week2_test_barbell.png)
 
   
 
